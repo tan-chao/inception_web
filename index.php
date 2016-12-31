@@ -1,7 +1,5 @@
 <?php 
 
-echo "xixihaha";
-phpinfo(); 
-
+echo "index";
 
 ?>
